@@ -165,5 +165,5 @@ https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/
 https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Film Drammatico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Rakuten_TV_logo.svg" group-title="Rakuten TV",Rakuten Film Drammatico
 https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rakuten Film Top" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rakuten.png" tvg-chno="806" group-title="Rakuten TV",Rakuten Film Top
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten Film Top" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rakuten.png"tvg-chno="806"" group-title="Rakuten TV",Rakuten Film Top
 https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
