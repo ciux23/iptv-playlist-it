@@ -1,25 +1,24 @@
 # IPTV Playlist IT
 
-Playlist IPTV italiana aggiornata automaticamente.
+Playlist IPTV italiana.
 
-## File playlist
+## Playlist M3U
 
-La playlist disponibile è:
+Link diretto:
 
-`iptv-playlist.m3u`
+https://raw.githubusercontent.com/ciux23/iptv-playlist-it/main/iptv-playlist.m3u
 
-## Aggiornamento
+## Repository
 
-La playlist viene generata automaticamente dal container IPTV Stream Manager.
+https://github.com/ciux23/iptv-playlist-it
 
-I link vengono risolti dal proxy locale e pubblicati su GitHub.
+## Compatibilità
 
-## Utilizzo
-
-Importare il file playlist nei player IPTV compatibili:
+Compatibile con:
 
 - VLC
 - IPTV Smarters
 - Kodi
 - Smart TV compatibili
-
+- Apple TV
+- macOS
