@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-chno="1" group-title="Italy",Rai 1
-http://192.168.8.34:8090/stream/rai1
+http://192.168.8.34:8090/ts/rai1
 #EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-logo="https://i.imgur.com/zA0PTcs.png" tvg-chno="2" group-title="Italy",Rai 2
-http://192.168.8.34:8090/stream/rai2
+http://192.168.8.34:8090/ts/rai2
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://i.imgur.com/9kuQCIi.png" tvg-chno="3" group-title="Italy",Rai 3
-http://192.168.8.34:8090/stream/rai3
+http://192.168.8.34:8090/ts/rai3
 #EXTINF:-1 tvg-id="Rete.4.it" tvg-name="Rete 4" tvg-logo="https://i.imgur.com/GWx2Fkl.png" tvg-chno="4" group-title="Italy",Rete 4
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Canale.5.it" tvg-name="Canale 5" tvg-logo="https://i.imgur.com/p6YdiR1.png" tvg-chno="5" group-title="Italy",Canale 5
@@ -20,15 +20,15 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTINF:-1 tvg-id="20.it" tvg-name="20 Mediaset" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/main/TVL/20mediaset.png" tvg-chno="10" group-title="Italy",20 Mediaset
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" tvg-logo="https://i.imgur.com/XFkZRfv.png" tvg-chno="11" group-title="Italy",Rai 4
-http://192.168.8.34:8090/stream/rai4
+http://192.168.8.34:8090/ts/rai4
 #EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris" tvg-logo="https://i.imgur.com/Ixz1BY3.png" tvg-chno="12" group-title="Italy",Iris
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5" tvg-logo="https://i.imgur.com/Leu2zTO.png" tvg-chno="13" group-title="Italy",Rai 5
-http://192.168.8.34:8090/stream/rai5
+http://192.168.8.34:8090/ts/rai5
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie" tvg-logo="https://i.imgur.com/RKpO8CE.png" tvg-chno="14" group-title="Italy",Rai Movie
-http://192.168.8.34:8090/stream/raimovie
+http://192.168.8.34:8090/ts/raimovie
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" tvg-logo="https://i.imgur.com/RKI4nFy.png" tvg-chno="15" group-title="Italy",Rai Premium
-http://192.168.8.34:8090/stream/raipremium
+http://192.168.8.34:8090/ts/raipremium
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo" tvg-logo="https://i.imgur.com/cPluF03.png" tvg-chno="16" group-title="Italy",Cielo
 http://192.168.8.34:8090/stream/cielo
 #EXTINF:-1 tvg-id="27Twentyseven.it" tvg-name="27 Twentyseven" tvg-logo="https://i.imgur.com/y2PdPCK.png" tvg-chno="17" group-title="Italy",27 Twentyseven
@@ -50,11 +50,11 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTINF:-1 tvg-id="Top.Crime.it" tvg-name="Top Crime" tvg-logo="https://i.imgur.com/RFIwv9O.png" tvg-chno="25" group-title="Italy",Top Crime
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-logo="https://i.imgur.com/gdzGwB6.png" tvg-chno="26" group-title="Italy",Rai News 24
-http://192.168.8.34:8090/stream/rainews24
+http://192.168.8.34:8090/ts/rainews24
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport" tvg-logo="https://i.imgur.com/xsGljsb.png" tvg-chno="27" group-title="Italy",Rai Sport
-http://192.168.8.34:8090/stream/raisport
+http://192.168.8.34:8090/ts/raisport
 #EXTINF:-1 tvg-id="RaiRadio2Visual.it" tvg-name="Rai Radio 2 Visual Radio" tvg-logo="https://i.imgur.com/nVBet0h.png" tvg-chno="28" group-title="Radio Visione",Rai Radio 2 Visual Radio
-http://192.168.8.34:8090/stream/rairadio2visualradio
+http://192.168.8.34:8090/ts/rairadio2visualradio
 #EXTINF:-1 tvg-id="Sky.TG24.it" tvg-name="Sky TG24" tvg-logo="https://i.imgur.com/q4d3Dah.png" tvg-chno="29" group-title="Italy",Sky TG24
 http://192.168.8.34:8090/stream/skytg24
 #EXTINF:-1 tvg-id="Italia.2.it" tvg-name="Italia 2" tvg-logo="https://i.imgur.com/nq48sjO.png" tvg-chno="30" group-title="Italy",Italia 2
