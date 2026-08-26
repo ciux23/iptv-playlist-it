@@ -1,74 +1,45 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
 #EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-name="Rai 1" tvg-logo="https://i.imgur.com/CAx7yRm.png" group-title="Italy",Rai 1
-#EXTVLCOPT:http-user-agent=rainet/4.0.5
-http://192.168.8.34:8090/stream/rai1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-name="Rai 2" tvg-logo="https://i.imgur.com/zA0PTcs.png" group-title="Italy",Rai 2
-#EXTVLCOPT:http-user-agent=rainet/4.0.5
-http://192.168.8.34:8090/stream/rai2
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-name="Rai 3" tvg-logo="https://i.imgur.com/9kuQCIi.png" group-title="Italy",Rai 3
-#EXTVLCOPT:http-user-agent=rainet/4.0.5
-http://192.168.8.34:8090/stream/rai3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="Rete.4.it" tvg-chno="4" tvg-name="Rete 4" tvg-logo="https://i.imgur.com/GWx2Fkl.png" group-title="Italy",Rete 4
-#EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
-#EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Canale.5.it" tvg-chno="5" tvg-name="Canale 5" tvg-logo="https://i.imgur.com/p6YdiR1.png" group-title="Italy",Canale 5
-#EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
-#EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Italia.1.it" tvg-chno="6" tvg-name="Italia 1" tvg-logo="https://i.imgur.com/oCiOxBG.png" group-title="Italy",Italia 1
-#EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
-#EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="LA7.HD.it" tvg-chno="7" tvg-name="La7" tvg-logo="https://i.imgur.com/F90mpSa.png" group-title="Italy",La7
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 #EXTINF:-1 tvg-id="TV8.HD.it" tvg-chno="8" tvg-name="TV8" tvg-logo="https://i.imgur.com/xvoHVOU.png" group-title="Italy",TV8
-#EXTVLCOPT:http-referrer=https://www.sky.it/
-#EXTVLCOPT:http-origin=https://www.sky.it
-http://192.168.8.34:8090/stream/tv8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1787731547~exp=1787731847~acl=/*~hmac=f649cfc53f7bbb74eaa4b61a55ba2f7492c4cf0e73f62735f541a3b46995fee5
 #EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-name="Nove" tvg-logo="https://i.imgur.com/Hp723RU.png" group-title="Italy",Nove
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="20.it" tvg-chno="10" tvg-name="20 Mediaset" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/main/TVL/20mediaset.png" group-title="Italy",20 Mediaset
-#EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
-#EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Rai4.it" tvg-chno="11" tvg-name="Rai 4" tvg-logo="https://i.imgur.com/XFkZRfv.png" group-title="Italy",Rai 4
-#EXTVLCOPT:http-user-agent=rainet/4.0.5
-http://192.168.8.34:8090/stream/rai4
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="Iris.it" tvg-chno="12" tvg-name="Iris" tvg-logo="https://i.imgur.com/Ixz1BY3.png" group-title="Italy",Iris
-#EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
-#EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Rai5.it" tvg-chno="13" tvg-name="Rai 5" tvg-logo="https://i.imgur.com/Leu2zTO.png" group-title="Italy",Rai 5
-#EXTVLCOPT:http-user-agent=rainet/4.0.5
-http://192.168.8.34:8090/stream/rai5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-chno="14" tvg-name="Rai Movie" tvg-logo="https://i.imgur.com/RKpO8CE.png" group-title="Italy",Rai Movie
-#EXTVLCOPT:http-user-agent=rainet/4.0.5
-http://192.168.8.34:8090/stream/raimovie
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-chno="15" tvg-name="Rai Premium" tvg-logo="https://i.imgur.com/RKI4nFy.png" group-title="Italy",Rai Premium
-#EXTVLCOPT:http-user-agent=rainet/4.0.5
-http://192.168.8.34:8090/stream/raipremium
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="cielo.it" tvg-chno="16" tvg-name="Cielo" tvg-logo="https://i.imgur.com/cPluF03.png" group-title="Italy",Cielo
-#EXTVLCOPT:http-referrer=https://www.sky.it/
-#EXTVLCOPT:http-origin=https://www.sky.it
-http://192.168.8.34:8090/stream/cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1787731547~exp=1787731847~acl=/*~hmac=f649cfc53f7bbb74eaa4b61a55ba2f7492c4cf0e73f62735f541a3b46995fee5
 #EXTINF:-1 tvg-id="27Twentyseven.it" tvg-chno="17" tvg-name="27 Twentyseven" tvg-logo="https://i.imgur.com/y2PdPCK.png" group-title="Italy",27 Twentyseven
-#EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
-#EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="La5.it" tvg-chno="18" tvg-name="La 5" tvg-logo="https://i.imgur.com/UNyJaho.png" group-title="Italy",La 5
-#EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
-#EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Real.Time.it" tvg-chno="19" tvg-name="Real Time" tvg-logo="https://i.imgur.com/9dcTYg1.png" group-title="Italy",Real Time
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="Cine34.it" tvg-chno="20" tvg-name="Cine34" tvg-logo="https://i.imgur.com/YyldwhI.png" group-title="Italy",Cine34
-#EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
-#EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Focus.it" tvg-chno="21" tvg-name="Focus" tvg-logo="https://i.imgur.com/M4smqpF.png" group-title="Italy",Focus
-#EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
-#EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="RTL.102.5.HD.it" tvg-chno="22" tvg-name="RTL 102.5" tvg-logo="https://i.imgur.com/KdissvS.png" group-title="Italy",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
@@ -77,47 +48,30 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTINF:-1 tvg-id="Giallo.TV.it" tvg-chno="24" tvg-name="Giallo" tvg-logo="https://i.imgur.com/0PIRwZS.png" group-title="Italy",Giallo
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="Top.Crime.it" tvg-chno="25" tvg-name="Top Crime" tvg-logo="https://i.imgur.com/RFIwv9O.png" group-title="Italy",Top Crime
-#EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
-#EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-chno="26" tvg-name="Rai News 24" tvg-logo="https://i.imgur.com/gdzGwB6.png" group-title="Italy",Rai News 24
-#EXTVLCOPT:http-user-agent=rainet/4.0.5
-http://192.168.8.34:8090/stream/rainews24
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-chno="27" tvg-name="Rai Sport" tvg-logo="https://i.imgur.com/xsGljsb.png" group-title="Italy",Rai Sport
-#EXTVLCOPT:http-user-agent=rainet/4.0.5
-http://192.168.8.34:8090/stream/raisport
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="RaiRadio2Visual.it" tvg-chno="28" tvg-name="Rai Radio 2 Visual Radio" tvg-logo="https://i.imgur.com/nVBet0h.png" group-title="Radio Visione",Rai Radio 2 Visual Radio
-#EXTVLCOPT:http-user-agent=rainet/4.0.5
-http://192.168.8.34:8090/stream/rairadio2visualradio
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="Sky.TG24.it" tvg-chno="29" tvg-name="Sky TG24" tvg-logo="https://i.imgur.com/q4d3Dah.png" group-title="Italy",Sky TG24
-#EXTVLCOPT:http-referrer=https://www.sky.it/
-#EXTVLCOPT:http-origin=https://www.sky.it
-http://192.168.8.34:8090/stream/skytg24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-id="Italia.2.it" tvg-chno="30" tvg-name="Italia 2" tvg-logo="https://i.imgur.com/nq48sjO.png" group-title="Italy",Italia 2
-#EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
-#EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="TGCom.it" tvg-chno="31" tvg-name="TGCOM 24" tvg-logo="https://i.imgur.com/xautVD8.png" group-title="Italy",TGCOM 24
-#EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
-#EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="DMAX.it" tvg-chno="32" tvg-name="DMAX" tvg-logo="https://i.imgur.com/dmEmRX7.png" group-title="Italy",DMAX
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="Mediaset.Extra.it" tvg-chno="33" tvg-name="Mediaset Extra" tvg-logo="https://i.imgur.com/mM8lopo.png" group-title="Italy",Mediaset Extra
-#EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
-#EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Motor.Trend.it" tvg-chno="34" tvg-name="Turbo" tvg-logo="https://i.imgur.com/TjjVjV0.png" group-title="Italy",Turbo
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-chno="35" tvg-name="Sportitalia Plus" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Italy",Sportitalia Plus
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio105TV.it" tvg-chno="36" tvg-name="Radio 105 TV" tvg-logo="https://i.imgur.com/3NiLKvj.png" group-title="Radio Visione",Radio 105 TV
-#EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
-#EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="R101TV.it" tvg-chno="37" tvg-name="R101 TV" tvg-logo="https://i.imgur.com/mWeEa9T.png" group-title="Radio Visione",R101 TV
-#EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
-#EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
 https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="DeejayTV.it" tvg-chno="38" tvg-name="Deejay TV" tvg-logo="https://i.imgur.com/rlaKH6k.png" group-title="Radio Visione",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
@@ -140,12 +94,8 @@ https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
 #EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-chno="47" tvg-name="Sportitalia SOLOCALCIO" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Italy",Sportitalia SOLOCALCIO
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioMonteCarloTV.it" tvg-chno="48" tvg-name="Radio Montecarlo TV" tvg-logo="https://i.imgur.com/3TMMXmS.png" group-title="Radio Visione",Radio Montecarlo TV
-#EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
-#EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
 https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="VirginRadioTV.it" tvg-chno="49" tvg-name="Virgin Radio TV" tvg-logo="https://i.imgur.com/7Im3HI1.png" group-title="Radio Visione",Virgin Radio TV
-#EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
-#EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Rai4K.it" tvg-chno="50" tvg-name="Rai 4K" tvg-logo="https://i.imgur.com/5gkt9DD.png" group-title="Italy",Rai 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
