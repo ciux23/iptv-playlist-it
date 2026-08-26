@@ -14,7 +14,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="LA7.HD.it" tvg-chno="7" tvg-name="La7" tvg-logo="https://i.imgur.com/F90mpSa.png" group-title="Italy",La7
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 #EXTINF:-1 tvg-id="TV8.HD.it" tvg-chno="8" tvg-name="TV8" tvg-logo="https://i.imgur.com/xvoHVOU.png" group-title="Italy",TV8
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1787731547~exp=1787731847~acl=/*~hmac=f649cfc53f7bbb74eaa4b61a55ba2f7492c4cf0e73f62735f541a3b46995fee5
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-name="Nove" tvg-logo="https://i.imgur.com/Hp723RU.png" group-title="Italy",Nove
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="20.it" tvg-chno="10" tvg-name="20 Mediaset" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/main/TVL/20mediaset.png" group-title="Italy",20 Mediaset
@@ -30,7 +30,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forc
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-chno="15" tvg-name="Rai Premium" tvg-logo="https://i.imgur.com/RKI4nFy.png" group-title="Italy",Rai Premium
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="cielo.it" tvg-chno="16" tvg-name="Cielo" tvg-logo="https://i.imgur.com/cPluF03.png" group-title="Italy",Cielo
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1787731547~exp=1787731847~acl=/*~hmac=f649cfc53f7bbb74eaa4b61a55ba2f7492c4cf0e73f62735f541a3b46995fee5
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-id="27Twentyseven.it" tvg-chno="17" tvg-name="27 Twentyseven" tvg-logo="https://i.imgur.com/y2PdPCK.png" group-title="Italy",27 Twentyseven
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="La5.it" tvg-chno="18" tvg-name="La 5" tvg-logo="https://i.imgur.com/UNyJaho.png" group-title="Italy",La 5
