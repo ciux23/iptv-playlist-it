@@ -11,15 +11,15 @@ http://192.168.8.34:8090/stream/rai3
 #EXTINF:-1 tvg-id="Rete.4.it" tvg-chno="4" tvg-name="Rete 4" tvg-logo="https://i.imgur.com/GWx2Fkl.png" group-title="Italy",Rete 4
 #EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
 #EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
-https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+http://192.168.8.34:8090/ts/rete4
 #EXTINF:-1 tvg-id="Canale.5.it" tvg-chno="5" tvg-name="Canale 5" tvg-logo="https://i.imgur.com/p6YdiR1.png" group-title="Italy",Canale 5
 #EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
 #EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
-https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+http://192.168.8.34:8090/ts/canale5
 #EXTINF:-1 tvg-id="Italia.1.it" tvg-chno="6" tvg-name="Italia 1" tvg-logo="https://i.imgur.com/oCiOxBG.png" group-title="Italy",Italia 1
 #EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
 #EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
-https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+http://192.168.8.34:8090/ts/italia1
 #EXTINF:-1 tvg-id="LA7.HD.it" tvg-chno="7" tvg-name="La7" tvg-logo="https://i.imgur.com/F90mpSa.png" group-title="Italy",La7
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 #EXTINF:-1 tvg-id="TV8.HD.it" tvg-chno="8" tvg-name="TV8" tvg-logo="https://i.imgur.com/xvoHVOU.png" group-title="Italy",TV8
@@ -27,18 +27,18 @@ https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTVLCOPT:http-origin=https://www.sky.it
 http://192.168.8.34:8090/stream/tv8
 #EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-name="Nove" tvg-logo="https://i.imgur.com/Hp723RU.png" group-title="Italy",Nove
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
+http://192.168.8.34:8090/ts/nove
 #EXTINF:-1 tvg-id="20.it" tvg-chno="10" tvg-name="20 Mediaset" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/main/TVL/20mediaset.png" group-title="Italy",20 Mediaset
 #EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
 #EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
-https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+http://192.168.8.34:8090/ts/20mediaset
 #EXTINF:-1 tvg-id="Rai4.it" tvg-chno="11" tvg-name="Rai 4" tvg-logo="https://i.imgur.com/XFkZRfv.png" group-title="Italy",Rai 4
 #EXTVLCOPT:http-user-agent=rainet/4.0.5
 http://192.168.8.34:8090/stream/rai4
 #EXTINF:-1 tvg-id="Iris.it" tvg-chno="12" tvg-name="Iris" tvg-logo="https://i.imgur.com/Ixz1BY3.png" group-title="Italy",Iris
 #EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
 #EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
-https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+http://192.168.8.34:8090/ts/iris
 #EXTINF:-1 tvg-id="Rai5.it" tvg-chno="13" tvg-name="Rai 5" tvg-logo="https://i.imgur.com/Leu2zTO.png" group-title="Italy",Rai 5
 #EXTVLCOPT:http-user-agent=rainet/4.0.5
 http://192.168.8.34:8090/stream/rai5
@@ -55,31 +55,31 @@ http://192.168.8.34:8090/stream/cielo
 #EXTINF:-1 tvg-id="27Twentyseven.it" tvg-chno="17" tvg-name="27 Twentyseven" tvg-logo="https://i.imgur.com/y2PdPCK.png" group-title="Italy",27 Twentyseven
 #EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
 #EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
-https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+http://192.168.8.34:8090/ts/27twentyseven
 #EXTINF:-1 tvg-id="La5.it" tvg-chno="18" tvg-name="La 5" tvg-logo="https://i.imgur.com/UNyJaho.png" group-title="Italy",La 5
 #EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
 #EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
-https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+http://192.168.8.34:8090/ts/la5
 #EXTINF:-1 tvg-id="Real.Time.it" tvg-chno="19" tvg-name="Real Time" tvg-logo="https://i.imgur.com/9dcTYg1.png" group-title="Italy",Real Time
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
+http://192.168.8.34:8090/ts/realtime
 #EXTINF:-1 tvg-id="Cine34.it" tvg-chno="20" tvg-name="Cine34" tvg-logo="https://i.imgur.com/YyldwhI.png" group-title="Italy",Cine34
 #EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
 #EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
-https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+http://192.168.8.34:8090/ts/cine34
 #EXTINF:-1 tvg-id="Focus.it" tvg-chno="21" tvg-name="Focus" tvg-logo="https://i.imgur.com/M4smqpF.png" group-title="Italy",Focus
 #EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
 #EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
-https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+http://192.168.8.34:8090/ts/focus
 #EXTINF:-1 tvg-id="RTL.102.5.HD.it" tvg-chno="22" tvg-name="RTL 102.5" tvg-logo="https://i.imgur.com/KdissvS.png" group-title="Italy",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery.Channel.it" tvg-chno="23" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/5IxIFJ0.png" group-title="Italy",Discovery Channel
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+http://192.168.8.34:8090/ts/discoverychannel
 #EXTINF:-1 tvg-id="Giallo.TV.it" tvg-chno="24" tvg-name="Giallo" tvg-logo="https://i.imgur.com/0PIRwZS.png" group-title="Italy",Giallo
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
+http://192.168.8.34:8090/ts/giallo
 #EXTINF:-1 tvg-id="Top.Crime.it" tvg-chno="25" tvg-name="Top Crime" tvg-logo="https://i.imgur.com/RFIwv9O.png" group-title="Italy",Top Crime
 #EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
 #EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
-https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+http://192.168.8.34:8090/ts/topcrime
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-chno="26" tvg-name="Rai News 24" tvg-logo="https://i.imgur.com/gdzGwB6.png" group-title="Italy",Rai News 24
 #EXTVLCOPT:http-user-agent=rainet/4.0.5
 http://192.168.8.34:8090/stream/rainews24
@@ -96,29 +96,29 @@ http://192.168.8.34:8090/stream/skytg24
 #EXTINF:-1 tvg-id="Italia.2.it" tvg-chno="30" tvg-name="Italia 2" tvg-logo="https://i.imgur.com/nq48sjO.png" group-title="Italy",Italia 2
 #EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
 #EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
-https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+http://192.168.8.34:8090/ts/italia2
 #EXTINF:-1 tvg-id="TGCom.it" tvg-chno="31" tvg-name="TGCOM 24" tvg-logo="https://i.imgur.com/xautVD8.png" group-title="Italy",TGCOM 24
 #EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
 #EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
-https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+http://192.168.8.34:8090/ts/tgcom24
 #EXTINF:-1 tvg-id="DMAX.it" tvg-chno="32" tvg-name="DMAX" tvg-logo="https://i.imgur.com/dmEmRX7.png" group-title="Italy",DMAX
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
+http://192.168.8.34:8090/ts/dmax
 #EXTINF:-1 tvg-id="Mediaset.Extra.it" tvg-chno="33" tvg-name="Mediaset Extra" tvg-logo="https://i.imgur.com/mM8lopo.png" group-title="Italy",Mediaset Extra
 #EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
 #EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
-https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+http://192.168.8.34:8090/ts/mediasetextra
 #EXTINF:-1 tvg-id="Motor.Trend.it" tvg-chno="34" tvg-name="Turbo" tvg-logo="https://i.imgur.com/TjjVjV0.png" group-title="Italy",Turbo
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
+http://192.168.8.34:8090/ts/turbo
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-chno="35" tvg-name="Sportitalia Plus" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Italy",Sportitalia Plus
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio105TV.it" tvg-chno="36" tvg-name="Radio 105 TV" tvg-logo="https://i.imgur.com/3NiLKvj.png" group-title="Radio Visione",Radio 105 TV
 #EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
 #EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
-https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+http://192.168.8.34:8090/ts/radio105tv
 #EXTINF:-1 tvg-id="R101TV.it" tvg-chno="37" tvg-name="R101 TV" tvg-logo="https://i.imgur.com/mWeEa9T.png" group-title="Radio Visione",R101 TV
 #EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
 #EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
-https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+http://192.168.8.34:8090/ts/r101tv
 #EXTINF:-1 tvg-id="DeejayTV.it" tvg-chno="38" tvg-name="Deejay TV" tvg-logo="https://i.imgur.com/rlaKH6k.png" group-title="Radio Visione",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-chno="39" tvg-name="RadioItaliaTV" tvg-logo="https://i.imgur.com/4VCEJuJ.png" group-title="Radio Visione",RadioItaliaTV
@@ -142,11 +142,11 @@ https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioMonteCarloTV.it" tvg-chno="48" tvg-name="Radio Montecarlo TV" tvg-logo="https://i.imgur.com/3TMMXmS.png" group-title="Radio Visione",Radio Montecarlo TV
 #EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
 #EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
-https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
+http://192.168.8.34:8090/ts/radiomontecarlotv
 #EXTINF:-1 tvg-id="VirginRadioTV.it" tvg-chno="49" tvg-name="Virgin Radio TV" tvg-logo="https://i.imgur.com/7Im3HI1.png" group-title="Radio Visione",Virgin Radio TV
 #EXTVLCOPT:http-referrer=https://www.mediasetplay.mediaset.it/
 #EXTVLCOPT:http-origin=https://www.mediasetplay.mediaset.it
-https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
+http://192.168.8.34:8090/ts/virginradiotv
 #EXTINF:-1 tvg-id="Rai4K.it" tvg-chno="50" tvg-name="Rai 4K" tvg-logo="https://i.imgur.com/5gkt9DD.png" group-title="Italy",Rai 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="51" tvg-name="Motori Tv" tvg-logo="https://i.imgur.com/NWXQKbl.png" group-title="Italy",Motori Tv
