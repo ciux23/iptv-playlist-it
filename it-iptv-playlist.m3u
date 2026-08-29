@@ -1,10 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-chno="1" group-title="Italy",Rai 1
-https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
+#EXTVLCOPT:http-user-agent=rainet/4.0.5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-logo="https://i.imgur.com/zA0PTcs.png" tvg-chno="2" group-title="Italy",Rai 2
-https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+#EXTVLCOPT:http-user-agent=rainet/4.0.5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://i.imgur.com/9kuQCIi.png" tvg-chno="3" group-title="Italy",Rai 3
-https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
+#EXTVLCOPT:http-user-agent=rainet/4.0.5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="Rete.4.it" tvg-name="Rete 4" tvg-logo="https://i.imgur.com/GWx2Fkl.png" tvg-chno="4" group-title="Italy",Rete 4
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Canale.5.it" tvg-name="Canale 5" tvg-logo="https://i.imgur.com/p6YdiR1.png" tvg-chno="5" group-title="Italy",Canale 5
@@ -20,15 +23,19 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTINF:-1 tvg-id="20.it" tvg-name="20 Mediaset" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/main/TVL/20mediaset.png" tvg-chno="10" group-title="Italy",20 Mediaset
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" tvg-logo="https://i.imgur.com/XFkZRfv.png" tvg-chno="11" group-title="Italy",Rai 4
-https://d3k8wzt41aflvx.cloudfront.net/RAI4/Live.m3u8
+#EXTVLCOPT:http-user-agent=rainet/4.0.5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris" tvg-logo="https://i.imgur.com/Ixz1BY3.png" tvg-chno="12" group-title="Italy",Iris
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5" tvg-logo="https://i.imgur.com/Leu2zTO.png" tvg-chno="13" group-title="Italy",Rai 5
-https://d3k8wzt41aflvx.cloudfront.net/RAI5/Live.m3u8
+#EXTVLCOPT:http-user-agent=rainet/4.0.5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie" tvg-logo="https://i.imgur.com/RKpO8CE.png" tvg-chno="14" group-title="Italy",Rai Movie
-https://d3k8wzt41aflvx.cloudfront.net/RAIMOVIE/Live.m3u8
+#EXTVLCOPT:http-user-agent=rainet/4.0.5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" tvg-logo="https://i.imgur.com/RKI4nFy.png" tvg-chno="15" group-title="Italy",Rai Premium
-https://d3k8wzt41aflvx.cloudfront.net/RAIPREMIUM/Live.m3u8
+#EXTVLCOPT:http-user-agent=rainet/4.0.5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo" tvg-logo="https://i.imgur.com/cPluF03.png" tvg-chno="16" group-title="Italy",Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-id="27Twentyseven.it" tvg-name="27 Twentyseven" tvg-logo="https://i.imgur.com/y2PdPCK.png" tvg-chno="17" group-title="Italy",27 Twentyseven
@@ -50,11 +57,14 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTINF:-1 tvg-id="Top.Crime.it" tvg-name="Top Crime" tvg-logo="https://i.imgur.com/RFIwv9O.png" tvg-chno="25" group-title="Italy",Top Crime
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-logo="https://i.imgur.com/gdzGwB6.png" tvg-chno="26" group-title="Italy",Rai News 24
-https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
+#EXTVLCOPT:http-user-agent=rainet/4.0.5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport" tvg-logo="https://i.imgur.com/xsGljsb.png" tvg-chno="27" group-title="Italy",Rai Sport
-https://d3k8wzt41aflvx.cloudfront.net/RAISPORT/Live.m3u8
+#EXTVLCOPT:http-user-agent=rainet/4.0.5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="RaiRadio2Visual.it" tvg-name="Rai Radio 2 Visual Radio" tvg-logo="https://i.imgur.com/nVBet0h.png" tvg-chno="28" group-title="Radio Visione",Rai Radio 2 Visual Radio
-https://d3k8wzt41aflvx.cloudfront.net/RAIRADIO2VISUALRADIO/Live.m3u8
+#EXTVLCOPT:http-user-agent=rainet/4.0.5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="Sky.TG24.it" tvg-name="Sky TG24" tvg-logo="https://i.imgur.com/q4d3Dah.png" tvg-chno="29" group-title="Italy",Sky TG24
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-id="Italia.2.it" tvg-name="Italia 2" tvg-logo="https://i.imgur.com/nq48sjO.png" tvg-chno="30" group-title="Italy",Italia 2
@@ -142,6 +152,6 @@ https://play.redbull.com/main/v1/rbtv/it_IT/it/personal_computer/http/rrn:conten
 #EXTINF:-1 tvg-id="filmrise-sci-fi-it" tvg-name="Rakuten FilmRise Sci-Fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Rakuten_TV_logo.svg" tvg-chno="71" group-title="Rakuten TV",Rakuten FilmRise Sci-Fi
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.rtv_channel_name=filmrise-sci-fi-it_it&ads.rakuten_market=it&ads.xumo_channelId=88883029&ads.xumo_contentId=2700&ads.rakuten_content_type=live_channels
 #EXTINF:-1 tvg-id="crime-rakuten-tv" tvg-name="Rakuten Serie Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Rakuten_TV_logo.svg" tvg-chno="72" group-title="Rakuten TV",Rakuten Serie Crime
-https://crime-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6216-playout/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=151.34.92.168&ads.market=it&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=14&ads.rtv_channel_id=6216&ads.rtv_channel_name=crime-rakuten-tv_it&ads.rtv_content_id=6216&ads.rtv_content_language=it&ads.rtv_language=it&ads.rtvid=271861&ads.streaming_id=c032dcdb-be18-400b-8fbd-c99acf80692c&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6216&publishing_platform_id=5&tenant_identifier=rtv
+https://crime-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6216-playout/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=151.34.92.168&ads.market=it&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=14&ads.rtv_channel_id=6216&ads.rtv_channel_name=crime-rakuten-tv_it&ads.rtv_content_id=6216&ads.rtv_content_language=it&ads.rtv_language=it&ads.rtvid=271861&ads.streaming_id=bab42d06-963d-4c6b-bb4a-e0492aa3c65e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6216&publishing_platform_id=5&tenant_identifier=rtv
 #EXTINF:-1 tvg-id="sci-fi-rakuten-tv" tvg-name="Rakuten Fantascienza" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Rakuten_TV_logo.svg" tvg-chno="73" group-title="Rakuten TV",Rakuten Fantascienza
-https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6430-playout/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=151.34.92.168&ads.market=it&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=14&ads.rtv_channel_id=6430&ads.rtv_channel_name=sci-fi-rakuten-tv_it&ads.rtv_content_id=6430&ads.rtv_content_language=it&ads.rtv_language=it&ads.rtvid=271861&ads.streaming_id=c930db93-a7d6-48a3-a0dd-82510e7d9a96&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6430&publishing_platform_id=5&tenant_identifier=rtv
+https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6430-playout/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=151.34.92.168&ads.market=it&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=14&ads.rtv_channel_id=6430&ads.rtv_channel_name=sci-fi-rakuten-tv_it&ads.rtv_content_id=6430&ads.rtv_content_language=it&ads.rtv_language=it&ads.rtvid=271861&ads.streaming_id=cf6d2d8a-be06-4260-95c3-d4a71fe3e62f&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6430&publishing_platform_id=5&tenant_identifier=rtv
