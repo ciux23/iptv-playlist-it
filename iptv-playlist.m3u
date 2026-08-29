@@ -131,9 +131,17 @@ https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8
 https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
 #EXTINF:-1 tvg-id="red-bull-tv-en" tvg-name="Red Bull TV" tvg-logo="" tvg-chno="66" group-title="Italy",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="filmrise-sci-fi-it" tvg-name="Rakuten FilmRise Sci-Fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Rakuten_TV_logo.svg" tvg-chno="67" group-title="Rakuten TV",Rakuten FilmRise Sci-Fi
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull Bike" tvg-logo="" tvg-chno="67" group-title="Italy",Red Bull Bike
+https://play.redbull.com/streams/v1/rbtv/bike/ts/audio/en.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull Adventure" tvg-logo="" tvg-chno="68" group-title="Italy",Red Bull Adventure
+https://play.redbull.com/streams/v1/rbtv/adventure/ts/audio/en.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull Motorsports" tvg-logo="" tvg-chno="69" group-title="Italy",Red Bull Motorsports
+https://play.redbull.com/streams/v1/rbtv/motor/ts/audio/en.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull Action Reel" tvg-logo="" tvg-chno="70" group-title="Italy",Red Bull Action Reel
+https://play.redbull.com/streams/v1/rbtv/action-reel/ts/audio/en.m3u8
+#EXTINF:-1 tvg-id="filmrise-sci-fi-it" tvg-name="Rakuten FilmRise Sci-Fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Rakuten_TV_logo.svg" tvg-chno="71" group-title="Rakuten TV",Rakuten FilmRise Sci-Fi
 http://192.168.8.34:8090/stream/rakuten_filmrise_scifi
-#EXTINF:-1 tvg-id="crime-rakuten-tv" tvg-name="Rakuten Serie Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Rakuten_TV_logo.svg" tvg-chno="68" group-title="Rakuten TV",Rakuten Serie Crime
+#EXTINF:-1 tvg-id="crime-rakuten-tv" tvg-name="Rakuten Serie Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Rakuten_TV_logo.svg" tvg-chno="72" group-title="Rakuten TV",Rakuten Serie Crime
 http://192.168.8.34:8090/stream/rakuten_serie_crime
-#EXTINF:-1 tvg-id="sci-fi-rakuten-tv" tvg-name="Rakuten Fantascienza" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Rakuten_TV_logo.svg" tvg-chno="69" group-title="Rakuten TV",Rakuten Fantascienza
+#EXTINF:-1 tvg-id="sci-fi-rakuten-tv" tvg-name="Rakuten Fantascienza" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Rakuten_TV_logo.svg" tvg-chno="73" group-title="Rakuten TV",Rakuten Fantascienza
 http://192.168.8.34:8090/stream/rakuten_fantascienza
