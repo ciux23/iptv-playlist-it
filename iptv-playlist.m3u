@@ -133,3 +133,5 @@ https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
 http://192.168.8.34:8090/stream/rakuten_filmrise_scifi
 #EXTINF:-1 tvg-id="crime-rakuten-tv" tvg-name="Rakuten Serie Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Rakuten_TV_logo.svg" tvg-chno="67" group-title="Rakuten TV",Rakuten Serie Crime
 http://192.168.8.34:8090/stream/rakuten_serie_crime
+#EXTINF:-1 tvg-id="sci-fi-rakuten-tv" tvg-name="Rakuten Fantascienza" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Rakuten_TV_logo.svg" tvg-chno="68" group-title="Rakuten TV",Rakuten Fantascienza
+http://192.168.8.34:8090/stream/rakuten_fantascienza
