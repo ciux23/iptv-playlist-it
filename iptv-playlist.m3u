@@ -134,11 +134,11 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Red Bull Bike" tvg-logo="" tvg-chno="67" group-title="Red Bull TV",Red Bull Bike
 https://play.redbull.com/main/v1/rbtv/it_IT/it/personal_computer/http/rrn:content:video-channels:ee30c528-32b1-4604-8976-e3bcee4ae7f0.m3u8?device_group=group_5
 #EXTINF:-1 tvg-id="" tvg-name="Red Bull Adventure" tvg-logo="" tvg-chno="68" group-title="Red Bull TV",Red Bull Adventure
-https://play.redbull.com/streams/v1/rbtv/adventure/ts/audio/en.m3u8
+https://play.redbull.com/main/v1/rbtv/it_IT/it/personal_computer/http/rrn:content:video-channels:870bcfa8-62b1-4e84-9c85-39f083df368a.m3u8?device_group=group_5
 #EXTINF:-1 tvg-id="" tvg-name="Red Bull Motorsports" tvg-logo="" tvg-chno="69" group-title="Red Bull TV",Red Bull Motorsports
-https://play.redbull.com/streams/v1/rbtv/motor/ts/audio/en.m3u8
+https://play.redbull.com/main/v1/rbtv/it_IT/it/personal_computer/http/rrn:content:video-channels:fd4ed3c9-1800-477b-9909-53255da06632.m3u8?device_group=group_5
 #EXTINF:-1 tvg-id="" tvg-name="Red Bull Action Reel" tvg-logo="" tvg-chno="70" group-title="Red Bull TV",Red Bull Action Reel
-https://play.redbull.com/streams/v1/rbtv/action-reel/ts/audio/en.m3u8
+https://play.redbull.com/main/v1/rbtv/it_IT/it/personal_computer/http/rrn:content:video-channels:69a66f02-21fd-42a1-be5b-6965541cfe6a.m3u8?device_group=group_5
 #EXTINF:-1 tvg-id="filmrise-sci-fi-it" tvg-name="Rakuten FilmRise Sci-Fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Rakuten_TV_logo.svg" tvg-chno="71" group-title="Rakuten TV",Rakuten FilmRise Sci-Fi
 http://192.168.8.34:8090/stream/rakuten_filmrise_scifi
 #EXTINF:-1 tvg-id="crime-rakuten-tv" tvg-name="Rakuten Serie Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Rakuten_TV_logo.svg" tvg-chno="72" group-title="Rakuten TV",Rakuten Serie Crime
