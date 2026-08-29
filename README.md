@@ -6,7 +6,7 @@ Playlist IPTV italiana.
 
 Link diretto:
 
-https://raw.githubusercontent.com/ciux23/iptv-playlist-it/main/iptv-playlist.m3u
+https://raw.githubusercontent.com/ciux23/iptv-playlist-it/main/it-iptv-playlist.m3u
 
 ## Repository
 
