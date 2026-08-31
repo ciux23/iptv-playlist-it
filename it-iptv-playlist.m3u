@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/ciux23/rakuten-it-epg/master/epg_finale.xml"
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-chno="1" group-title="Italy",Rai 1
-https://spies-berry-lancaster-england.trycloudflare.com/stream/rai1
+https://silent-feature-association-representing.trycloudflare.com/stream/rai1
 #EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-logo="https://i.imgur.com/zA0PTcs.png" tvg-chno="2" group-title="Italy",Rai 2
-https://spies-berry-lancaster-england.trycloudflare.com/stream/rai2
+https://silent-feature-association-representing.trycloudflare.com/stream/rai2
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://i.imgur.com/9kuQCIi.png" tvg-chno="3" group-title="Italy",Rai 3
-https://spies-berry-lancaster-england.trycloudflare.com/stream/rai3
+https://silent-feature-association-representing.trycloudflare.com/stream/rai3
 #EXTINF:-1 tvg-id="Rete.4.it" tvg-name="Rete 4" tvg-logo="https://i.imgur.com/GWx2Fkl.png" tvg-chno="4" group-title="Italy",Rete 4
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Canale.5.it" tvg-name="Canale 5" tvg-logo="https://i.imgur.com/p6YdiR1.png" tvg-chno="5" group-title="Italy",Canale 5
@@ -14,23 +14,23 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="LA7.HD.it" tvg-name="La7" tvg-logo="https://i.imgur.com/F90mpSa.png" tvg-chno="7" group-title="Italy",La7
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 #EXTINF:-1 tvg-id="TV8.HD.it" tvg-name="TV8" tvg-logo="https://i.imgur.com/xvoHVOU.png" tvg-chno="8" group-title="Italy",TV8
-https://spies-berry-lancaster-england.trycloudflare.com/stream/tv8
+https://silent-feature-association-representing.trycloudflare.com/stream/tv8
 #EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove" tvg-logo="https://i.imgur.com/Hp723RU.png" tvg-chno="9" group-title="Italy",Nove
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="20.it" tvg-name="20 Mediaset" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/main/TVL/20mediaset.png" tvg-chno="10" group-title="Italy",20 Mediaset
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" tvg-logo="https://i.imgur.com/XFkZRfv.png" tvg-chno="11" group-title="Italy",Rai 4
-https://spies-berry-lancaster-england.trycloudflare.com/stream/rai4
+https://silent-feature-association-representing.trycloudflare.com/stream/rai4
 #EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris" tvg-logo="https://i.imgur.com/Ixz1BY3.png" tvg-chno="12" group-title="Italy",Iris
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5" tvg-logo="https://i.imgur.com/Leu2zTO.png" tvg-chno="13" group-title="Italy",Rai 5
-https://spies-berry-lancaster-england.trycloudflare.com/stream/rai5
+https://silent-feature-association-representing.trycloudflare.com/stream/rai5
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie" tvg-logo="https://i.imgur.com/RKpO8CE.png" tvg-chno="14" group-title="Italy",Rai Movie
-https://spies-berry-lancaster-england.trycloudflare.com/stream/raimovie
+https://silent-feature-association-representing.trycloudflare.com/stream/raimovie
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" tvg-logo="https://i.imgur.com/RKI4nFy.png" tvg-chno="15" group-title="Italy",Rai Premium
-https://spies-berry-lancaster-england.trycloudflare.com/stream/raipremium
+https://silent-feature-association-representing.trycloudflare.com/stream/raipremium
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo" tvg-logo="https://i.imgur.com/cPluF03.png" tvg-chno="16" group-title="Italy",Cielo
-https://spies-berry-lancaster-england.trycloudflare.com/stream/cielo
+https://silent-feature-association-representing.trycloudflare.com/stream/cielo
 #EXTINF:-1 tvg-id="27Twentyseven.it" tvg-name="27 Twentyseven" tvg-logo="https://i.imgur.com/y2PdPCK.png" tvg-chno="17" group-title="Italy",27 Twentyseven
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="La5.it" tvg-name="La 5" tvg-logo="https://i.imgur.com/UNyJaho.png" tvg-chno="18" group-title="Italy",La 5
@@ -50,13 +50,13 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTINF:-1 tvg-id="Top.Crime.it" tvg-name="Top Crime" tvg-logo="https://i.imgur.com/RFIwv9O.png" tvg-chno="25" group-title="Italy",Top Crime
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-logo="https://i.imgur.com/gdzGwB6.png" tvg-chno="26" group-title="Italy",Rai News 24
-https://spies-berry-lancaster-england.trycloudflare.com/stream/rainews24
+https://silent-feature-association-representing.trycloudflare.com/stream/rainews24
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport" tvg-logo="https://i.imgur.com/xsGljsb.png" tvg-chno="27" group-title="Italy",Rai Sport
-https://spies-berry-lancaster-england.trycloudflare.com/stream/raisport
+https://silent-feature-association-representing.trycloudflare.com/stream/raisport
 #EXTINF:-1 tvg-id="RaiRadio2Visual.it" tvg-name="Rai Radio 2 Visual Radio" tvg-logo="https://i.imgur.com/nVBet0h.png" tvg-chno="28" group-title="Radio Visione",Rai Radio 2 Visual Radio
-https://spies-berry-lancaster-england.trycloudflare.com/stream/rairadio2visualradio
+https://silent-feature-association-representing.trycloudflare.com/stream/rairadio2visualradio
 #EXTINF:-1 tvg-id="Sky.TG24.it" tvg-name="Sky TG24" tvg-logo="https://i.imgur.com/q4d3Dah.png" tvg-chno="29" group-title="Italy",Sky TG24
-https://spies-berry-lancaster-england.trycloudflare.com/stream/skytg24
+https://silent-feature-association-representing.trycloudflare.com/stream/skytg24
 #EXTINF:-1 tvg-id="Italia.2.it" tvg-name="Italia 2" tvg-logo="https://i.imgur.com/nq48sjO.png" tvg-chno="30" group-title="Italy",Italia 2
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="TGCom.it" tvg-name="TGCOM 24" tvg-logo="https://i.imgur.com/xautVD8.png" tvg-chno="31" group-title="Italy",TGCOM 24
@@ -140,8 +140,8 @@ https://play.redbull.com/main/v1/rbtv/it_IT/it/personal_computer/http/rrn:conten
 #EXTINF:-1 tvg-id="" tvg-name="Red Bull Action Reel" tvg-logo="" tvg-chno="70" group-title="Red Bull TV",Red Bull Action Reel
 https://play.redbull.com/main/v1/rbtv/it_IT/it/personal_computer/http/rrn:content:video-channels:69a66f02-21fd-42a1-be5b-6965541cfe6a.m3u8?device_group=group_5
 #EXTINF:-1 tvg-id="filmrise-sci-fi-it" tvg-name="Rakuten FilmRise Sci-Fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Rakuten_TV_logo.svg" tvg-chno="71" group-title="Rakuten TV",Rakuten FilmRise Sci-Fi
-https://spies-berry-lancaster-england.trycloudflare.com/stream/rakuten_filmrise_scifi
+https://silent-feature-association-representing.trycloudflare.com/stream/rakuten_filmrise_scifi
 #EXTINF:-1 tvg-id="crime-rakuten-tv" tvg-name="Rakuten Serie Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Rakuten_TV_logo.svg" tvg-chno="72" group-title="Rakuten TV",Rakuten Serie Crime
-https://spies-berry-lancaster-england.trycloudflare.com/stream/rakuten_serie_crime
+https://silent-feature-association-representing.trycloudflare.com/stream/rakuten_serie_crime
 #EXTINF:-1 tvg-id="sci-fi-rakuten-tv" tvg-name="Rakuten Fantascienza" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Rakuten_TV_logo.svg" tvg-chno="73" group-title="Rakuten TV",Rakuten Fantascienza
-https://spies-berry-lancaster-england.trycloudflare.com/stream/rakuten_fantascienza
+https://silent-feature-association-representing.trycloudflare.com/stream/rakuten_fantascienza
